@@ -1,0 +1,7 @@
+{
+  "name": "YewwoMerchant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
